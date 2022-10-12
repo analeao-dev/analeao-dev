@@ -13,11 +13,12 @@
 - 🎓 Bacharelado em Ciência da Computação
 
 -->
-<div style="display: flex; flex-direction: row;">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ana-Leao&show_icons=true&theme=shades-of-purple&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ana-Leao&layout=compact&langs_count=7&theme=shades-of-purple"/>
+<div align="center" class='container'>
+  <img style="height: auto; width: 55%;" class="img" src="https://github-readme-stats.vercel.app/api?username=Ana-Leao&show_icons=true&theme=shades-of-purple&include_all_commits=true&count_private=true"/>
+  &nbsp;
+  &nbsp;
+  <img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ana-Leao&layout=compact&langs_count=7&theme=shades-of-purple"/>
 </div>
-
 
 ## 🚀 Minhas Skills
 <div>
