@@ -14,10 +14,10 @@
 
 -->
 <div align="center" class='container'>
-  <img style="height: auto; width: 55%;" class="img" src="https://github-readme-stats.vercel.app/api?username=Ana-Leao&show_icons=true&theme=shades-of-purple&include_all_commits=true&count_private=true"/>
+  <img style="height: auto; width: 55%;" class="img" src="https://github-readme-stats.vercel.app/api?username=analeao-dev&show_icons=true&theme=shades-of-purple&include_all_commits=true&count_private=true"/>
   &nbsp;
   &nbsp;
-  <img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ana-Leao&layout=compact&langs_count=7&theme=shades-of-purple"/>
+  <img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=analeao-dev&layout=compact&langs_count=7&theme=shades-of-purple"/>
 </div>
 
 ## 🚀 Minhas Skills
