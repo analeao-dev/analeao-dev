@@ -19,18 +19,3 @@
   &nbsp;
   <img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=analeao-dev&layout=compact&langs_count=7&theme=shades-of-purple"/>
 </div>
-
-## 🚀 Minhas Skills
-<div>
-  <img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="c"/>&nbsp;&nbsp;
-  <img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="Javascript"/>&nbsp;&nbsp;
-  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="CSS"/>&nbsp;&nbsp;
-  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5"/>&nbsp;&nbsp;
-  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS"/>&nbsp;&nbsp;
-</div>
-
-## 🤯 Estudando...
-<div>
-  <img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" alt="Typescript"/>&nbsp;&nbsp;
-  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Nodejs"/>&nbsp;&nbsp;
-</div>
